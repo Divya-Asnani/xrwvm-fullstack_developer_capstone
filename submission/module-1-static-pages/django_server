@@ -1,0 +1,8 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2026 - 01:27:12
+Django version 6.1.3, using settings 'djangoproj.settings'
+Starting WSGI development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
