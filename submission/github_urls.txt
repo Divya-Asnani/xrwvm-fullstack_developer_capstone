@@ -1,0 +1,11 @@
+1. README.md:
+https://github.com/Divya-Asnani/xrwvm-fullstack_developer_capstone/blob/main/README.md
+
+2. About.html:
+https://github.com/Divya-Asnani/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/static/About.html
+
+3. Contact.html:
+https://github.com/Divya-Asnani/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/static/Contact.html
+
+4. Register.jsx:
+https://github.com/Divya-Asnani/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/src/components/Register/Register.jsx

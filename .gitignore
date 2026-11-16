@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+node_modules/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -100,6 +101,10 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+
+# Local Mongo data
+mongo_local_data/
+server/database/mongo_local_data/
 
 # Environments
 .env

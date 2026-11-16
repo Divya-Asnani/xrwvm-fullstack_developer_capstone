@@ -14,6 +14,8 @@ services:
   # Node api service
   api:
     image: nodeapp
+    environment:
+      - MONGO_URL=mongodb://mongo_db:27017/
     ports:
       - 3030:3030
     depends_on: 
